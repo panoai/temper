@@ -1,3 +1,5 @@
+# This project is archived. Further USB thermometer support will be provided by [temper-py](https://github.com/ccwienk/temper).
+
 # temper.py
 
 The USB temperature and temperature/humidity sensors sold by PCsensor are
